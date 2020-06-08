@@ -1,4 +1,4 @@
-##Optimally combining classifiers for semi-supervised learning
+###Optimally combining classifiers for semi-supervised learning
 
 We propose a new semi-supervised method combing Xgboost and transductive support vector machine.
 
